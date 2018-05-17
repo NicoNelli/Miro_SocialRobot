@@ -2,7 +2,7 @@
 
 ## Project Contributers: 
 1. Prajval Kumar Murali (prajval10@gmail.com)
-2. Nicolò Bastianell (nicolobastianelli@gmail.com)
+2. Nicolò Bastianelli Naticchi (nicolobastianelli@gmail.com)
 3. Luca Macchiusi (macchiusiluca@gmail.com)
   
 ## Objective:
